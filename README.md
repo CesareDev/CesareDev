@@ -21,7 +21,7 @@
 ## I participate in 👥:
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Cec__)](https://leetcode.com/Cec__)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Cec__?theme=dark&radius=20)](https://leetcode.com/Cec__)
 
 ## My contacts 🌐:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corsicesare.lavoro@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.youtube.com/)](https://www.linkedin.com/in/cesare-corsi) ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cesare.corsi) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cesarecorsi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/u/Z3L_/s/ecpQupH30a)
