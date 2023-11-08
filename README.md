@@ -28,8 +28,6 @@
 
 ## Mentions 🗣:
 
-### **Badges** 
-from [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+***Badges*** from [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
 
-### **LeetCode Stats Card** 
-from [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
+***LeetCode Stats Card*** from [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
