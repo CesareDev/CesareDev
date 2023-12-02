@@ -1,6 +1,6 @@
 # Hi i'm Cesare 👋
 
-### Education 📚:
+## Education 📚:
 
 - ***Bachelor degree*** : Computer Engineering
 
