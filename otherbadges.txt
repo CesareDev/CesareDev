@@ -2,3 +2,5 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Cec__?theme=dark&radius=20)](https://leetcode.com/Cec__)
+
+***LeetCode Stats Card*** from [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card)
