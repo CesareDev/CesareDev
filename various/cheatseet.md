@@ -146,3 +146,6 @@ LaTex     |           |
 `\oplus`  | $\oplus$  |
 `\begin{cases}Ciao & x=1\\Hello & y=2\end{cases}` | Not supported |
 `\displaystyle{\sum_{i=0}^{N}}i` | $\displaystyle{\sum_{i=0}^{N}}i$ |
+`\mathbb{R}` | $\mathbb{R}$ |
+`\cfrac{1}{2}` | $\cfrac{1}{2}$ |
+`x\times x` | $x\times x$
