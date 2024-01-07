@@ -136,3 +136,13 @@ $\sec$,
 $\sin$,
 $\sinh$,
 $\sup$
+
+<br>
+
+====================================
+#### Other
+LaTex     |           |
+---------:|-----------|
+`\oplus`  | $\oplus$  |
+`\begin{cases}Ciao & x=1\\Hello & y=2\end{cases}` | Not supported |
+`\displaystyle{\sum_{i=0}^{N}}i` | $\displaystyle{\sum_{i=0}^{N}}i$ |
