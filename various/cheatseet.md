@@ -148,4 +148,6 @@ LaTex     |           |
 `\displaystyle{\sum_{i=0}^{N}}i` | $\displaystyle{\sum_{i=0}^{N}}i$ |
 `\mathbb{R}` | $\mathbb{R}$ |
 `\cfrac{1}{2}` | $\cfrac{1}{2}$ |
-`x\times x` | $x\times x$
+`x\times x` | $x\times x$ |
+`\underbrace{x+y}_\text{This is x+y}` | $\underbrace{x+y}_\text{This is x+y}$ |
+`\overbrace{x+y}^\text{This is x+y}` | $\overbrace{x+y}^\text{This is x+y}$ |
