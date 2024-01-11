@@ -151,3 +151,4 @@ LaTex     |           |
 `x\times x` | $x\times x$ |
 `\underbrace{x+y}_\text{This is x+y}` | $\underbrace{x+y}_\text{This is x+y}$ |
 `\overbrace{x+y}^\text{This is x+y}` | $\overbrace{x+y}^\text{This is x+y}$ |
+`a\cdot b` | $a\cdot b$ |
