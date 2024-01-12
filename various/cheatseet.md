@@ -153,6 +153,7 @@ LaTex     |           |
 `\overbrace{x+y}^\text{This is x+y}` | $\overbrace{x+y}^\text{This is x+y}$ |
 `\vec{a}\cdot\vec{b}` | $\vec{a}\cdot\vec{b}$ |
 `\textcolor{red}{Hi}\textcolor{blue}{Bye}` | $\textcolor{red}{Hi}\textcolor{blue}{Bye}$ |
+`\overline{a},\overline{ab}` or `\bar{a}` | $\overline{a},\overline{ab}\text{ or }\bar{a}$ |
 ```latex
 $$
 f(x)=
