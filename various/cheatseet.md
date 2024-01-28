@@ -155,13 +155,11 @@ LaTex     |           |
 `\textcolor{red}{Hi}\textcolor{blue}{Bye}` | $\textcolor{red}{Hi}\textcolor{blue}{Bye}$ |
 `\overline{a},\overline{ab}` or `\bar{a}` | $\overline{a},\overline{ab}\text{ or }\bar{a}$ |
 ```latex
-$$
 f(x)=
 \begin{cases}
 x^2&x=foo1\\
 x^3&x=foo2
 \end{cases}
-$$
 ```
 $$
 f(x)=
@@ -171,14 +169,12 @@ x^3&x=foo2
 \end{cases}
 $$
 ```latex
-$$
 M=
 \begin{pmatrix}
 1&0&1&0&1\\
 1&0&1&0&1\\
 1&0&\smash[b]{\underbrace{\beigin{matrix}1&0&1\end{matrix}}_\text{hi}}
 \end{pmatrix}
-$$
 ```
 $$
 M=
@@ -189,12 +185,10 @@ M=
 \end{pmatrix}
 $$
 ```latex
-$$
 M=
 \begin{pmatrix}
 \smash[b]{\underbrace{\beigin{matrix}1&0&1\end{matrix}}_\text{hi}}&0&1
 \end{pmatrix}
-$$
 ```
 $$
 M=
