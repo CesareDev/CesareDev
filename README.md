@@ -1,10 +1,10 @@
-# Hi i'm Cesare 👋
+# Hi, I'm Cesare! 👋
 
 ## Education 📚:
 
-- ***Bachelor degree*** : Computer Engineering
+- ***Bachelor degree*** in Computer Engineering at University of Perugia
 
-- ***Master degree*** : Computer Science
+- ***Master degree*** in Computer Science at Sapienza University of Rome
 
 ## I'm now focusing on 👨‍💻:
 
@@ -32,7 +32,7 @@
 
 ## My contacts 🌐:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corsicesare.lavoro@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.youtube.com/)](https://www.linkedin.com/in/cesare-corsi) ![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cesare.corsi) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/cesarecorsi) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cesarecorsi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/u/Z3L_/s/ecpQupH30a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corsicesare.lavoro@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.youtube.com/)](https://www.linkedin.com/in/cesare-corsi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/cesare.corsi) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cesarecorsi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/u/Z3L_/s/ecpQupH30a)
 
 ## Mentions 🗣:
 
