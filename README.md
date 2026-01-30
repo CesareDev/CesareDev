@@ -4,7 +4,7 @@
 
 - ***Bachelor degree*** : Computer Engineering
 
-- ***Master degree*** : Computer Science *(in progress)*
+- ***Master degree*** : Computer Science
 
 ## I'm now focusing on 👨‍💻:
 
